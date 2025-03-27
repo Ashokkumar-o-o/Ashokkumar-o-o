@@ -45,7 +45,7 @@ Hey there! I'm **Ashokkumar**, a passionate **Full-Stack Developer** and problem
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="www.linkedin.com/in/ashokkumar-o-o">
+  <a href="https://www.linkedin.com/in/ashokkumar-o-o/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
