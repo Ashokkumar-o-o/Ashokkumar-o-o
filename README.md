@@ -42,7 +42,7 @@ Hey there! I'm **Ashokkumar**, a passionate **Full-Stack Developer** and problem
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Ashokkumar-o-o" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ashokkumar-o-o/" target="_blank">
