@@ -39,7 +39,6 @@ Hey there! I'm **Ashokkumar**, a passionate **Full-Stack Developer** and problem
 ## 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashokkumar-o-o&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashokkumar-o-o&theme=radical" width="400">
 </p>
 
 ---
